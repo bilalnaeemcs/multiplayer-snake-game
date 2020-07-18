@@ -12,3 +12,7 @@ To run the server use the following command
 To run a client use the following command
 
 `python3 clientTest.py ip_address_of_server port_number`
+
+### Screenshot
+
+![Server in first Terminal, with two clients in lower ones](./game.png)
